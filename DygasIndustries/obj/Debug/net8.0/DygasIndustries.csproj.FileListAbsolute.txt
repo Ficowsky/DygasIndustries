@@ -1,0 +1,14 @@
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\bin\Debug\net8.0\DygasIndustries.exe
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\bin\Debug\net8.0\DygasIndustries.deps.json
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\bin\Debug\net8.0\DygasIndustries.runtimeconfig.json
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\bin\Debug\net8.0\DygasIndustries.dll
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\bin\Debug\net8.0\DygasIndustries.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.AssemblyInfoInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.AssemblyInfo.cs
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.csproj.CoreCompileInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.dll
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\refint\DygasIndustries.dll
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.genruntimeconfig.cache
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\ref\DygasIndustries.dll
