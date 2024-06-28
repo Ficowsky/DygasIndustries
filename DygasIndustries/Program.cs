@@ -103,9 +103,76 @@ class Game
                 Console.ReadKey();
             }
         }
-    } 
-   
+    }
+    class Map
+    {
+        private int width;
+        private int height;
+        private bool[,] tiles;
 
+        public Map(int width, int height)
+        {
+            this.width = width;
+            this.height = height;
+            tiles = new bool[width, height];
+            GenerateMap();
+        }
 
-   
+        private void GenerateMap()
+        {
+            for (int x = 0; x < width; x++)
+            {
+                for (int y = 0; y < height; y++)
+                {
+                    tiles[x, y] = true; // Example: all tiles passable
+                }
+            }
+        }
+
+        public bool IsPassable(int x, int y)
+        {
+            return x >= 0 && y >= 0 && x < width && y < height && tiles[x, y];
+        }
+
+        public void Draw(Player player, List<NPC> npcs, List<Item> items)
+        {
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    if (player.X == x && player.Y == y)
+                    {
+                        Console.Write('P');
+                    }
+                    else if (npcs.Exists(n => n.X == x && n.Y == y))
+                    {
+                        Console.Write('N');
+                    }
+                    else if (items.Exists(i => i.X == x && i.Y == y))
+                    {
+                        Console.Write('I');
+                    }
+                    else
+                    {
+                        Console.Write('.');
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+    class Item
+    {
+        public int X { get; private set; }
+        public int Y { get; private set; }
+        public string Name { get; private set; }
+
+        public Item(int x, int y, string name)
+        {
+            X = x;
+            Y = y;
+            Name = name;
+        }
+    }
+
 }

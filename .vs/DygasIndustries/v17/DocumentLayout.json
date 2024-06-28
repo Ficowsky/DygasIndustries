@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Klaudusia Skowyrka\\source\\repos\\DygasIndustries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046895F4-FAF1-4351-BB09-8433D31E0623}|DygasIndustries\\DygasIndustries.csproj|c:\\users\\klaudusia skowyrka\\source\\repos\\dygasindustries\\dygasindustries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046895F4-FAF1-4351-BB09-8433D31E0623}|DygasIndustries\\DygasIndustries.csproj|solutionrelative:dygasindustries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Klaudusia Skowyrka\\source\\repos\\DygasIndustries\\DygasIndustries\\Program.cs",
+              "RelativeDocumentMoniker": "DygasIndustries\\Program.cs",
+              "ToolTip": "C:\\Users\\Klaudusia Skowyrka\\source\\repos\\DygasIndustries\\DygasIndustries\\Program.cs",
+              "RelativeToolTip": "DygasIndustries\\Program.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAAK0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:02:57.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
