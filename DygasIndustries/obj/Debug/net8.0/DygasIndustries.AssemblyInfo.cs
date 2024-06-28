@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DygasIndustries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23f1a0b325ab401d93d6db55c086cd88bb671dfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("DygasIndustries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DygasIndustries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

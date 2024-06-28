@@ -174,5 +174,59 @@ class Game
             Name = name;
         }
     }
+    class NPC
+    {
+        public int X { get; private set; }
+        public int Y { get; private set; }
 
+        public NPC(int x, int y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        public void Move(int dx, int dy, Map map)
+        {
+            int newX = X + dx;
+            int newY = Y + dy;
+            if (map.IsPassable(newX, newY))
+            {
+                X = newX;
+                Y = newY;
+            }
+        }
+    }
+
+
+    class Player
+    {
+        public int X { get; private set; }
+        public int Y { get; private set; }
+        private List<Item> inventory;
+
+        public Player(int x, int y)
+        {
+            X = x;
+            Y = y;
+            inventory = new List<Item>();
+        }
+
+        public void Move(int dx, int dy, Map map)
+        {
+            int newX = X + dx;
+            int newY = Y + dy;
+            if (map.IsPassable(newX, newY))
+            {
+                X = newX;
+                Y = newY;
+            }
+        }
+
+        public void PickupItem(Item item)
+        {
+            inventory.Add(item);
+        }
+    }
 }
+
+

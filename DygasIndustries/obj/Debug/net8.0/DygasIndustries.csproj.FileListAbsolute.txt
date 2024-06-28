@@ -12,3 +12,4 @@ C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Deb
 C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.pdb
 C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.genruntimeconfig.cache
 C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\ref\DygasIndustries.dll
+C:\Users\Klaudusia Skowyrka\source\repos\DygasIndustries\DygasIndustries\obj\Debug\net8.0\DygasIndustries.sourcelink.json
